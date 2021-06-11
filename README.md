@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 # Experience 
 
-* SW Maestro 9th (2018)
+* SW Maestro 
 * DCInside Github Gallery Sub Manager (~2020)
 * High Performance Computing Lab (~2019)
 * LLVM Contributor (2019)
