@@ -7,6 +7,10 @@
   </p>
 </p>
 
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviolet-dev%2Fhit-counter&count_bg=%23A361DD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true">
+</div>
+
 <!--
 **violet-dev/violet-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
